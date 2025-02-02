@@ -8,16 +8,21 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/adrenreuel).
 
 ## Toolbox 🛠️
 
-### Skills
+**Programming & Markup Languages:** JavaScript / TypeScript, Python, Java, C, C++, C#, PHP, Assembly, Verilog, Swift, Bash/Shell, HTML, XML
 
-- `JavaScript` `TypeScript` `Python` `C++` `Java` `HTML` `CSS` `React` `React Native`
-- `Express.js` `Node.js` `NLTK` `Flask` `MySQL` `PostgreSQL` `MongoDB`
-- `AWS` `Firebase` `Docker` `GitHub Actions` `Git` `npm` `Yarn` `Webpack` `Babel`
-- `TensorFlow` `PyTorch` `OpenAI API` `Blender` `Figma` `3D Printing (FDM, Resin)`
+**Development Tools & Frameworks:** React, React Native, Node.js, Django, Express.js, Vue.js, Laravel, Flutter, REST APIs, MySQL, PostgreSQL, MongoDB, Azure  
+
+**Creative & Design Tools:** Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Animate & InDesign, Cinema4D, Blender  
+
+**CAD:** SolidWorks, Fusion 360, AutoCAD, KiCad, Grasshopper  
+
+**DevOps & Other Tools:** Git, GitHub, Docker, Kubernetes, AWS, Linux Administration, TensorFlow, Electron.js  
+
+**Additional Skills:** UI/UX Design, FL Studio, Logic Pro X
 
 ## Projects 🌟
 
-I build software ranging from full-stack web and mobile apps to cutting-edge AI models and tools. Below are a few highlights:
+I build software ranging from full-stack web and mobile apps to cool AI models and tools. Below are a few highlights:
 
 - **Seizafe**: A Chrome extension designed to prevent photosensitive epileptic seizures.
 - **BLEEP**: A crowdsourcing platform to report and identify counterfeit goods in Africa.
