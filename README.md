@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Reuel!
+# Hey! ✌️ I'm Reuel!
 
 **Computer Engineer | Undergrad Student @ York University, Canada**
 
