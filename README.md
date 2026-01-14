@@ -1,6 +1,6 @@
 # Hey! ✌️ I'm Reuel!
 
-**Computer Engineer | Undergrad Student @ York University, Canada**
+**Computer Engineering Student @ York University - Toronto, Canada**
 
 Welcome to my GitHub! I'm passionate about building innovative solutions for my community, and diving into the world of software development, AI, and engineering. In the end, I love inventing stuff xD
 
