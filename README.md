@@ -12,7 +12,6 @@ I build software ranging from full-stack web and mobile apps to cool AI models a
 
 - **Seizafe**: A Chrome extension designed to prevent photosensitive epileptic seizures.
 - **BLEEP**: A crowdsourcing platform to report and identify counterfeit goods in Africa.
-- **OpenBulletin**: An AI-powered news app to provide unbiased summaries and multiple sources for today's top stories. (WiP)
 
 ## Get in Touch 🤝
 
