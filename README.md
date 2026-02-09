@@ -1,4 +1,4 @@
-# Hey! ✌️ I'm Reuel!
+# Hey! ✌️ I'm Reuel! (/'Roo:El/)
 **Computer Engineering Major @ York University - Toronto, Canada**
 
 Welcome to my GitHub! 
