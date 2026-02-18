@@ -14,6 +14,10 @@ I build software ranging from full-stack web and mobile apps to cool AI models a
 - **Seizafe**: A Chrome extension designed to prevent photosensitive epileptic seizures.
 - **BLEEP**: A crowdsourcing platform to report and identify counterfeit goods in Africa.
 
+## My Open-Source Projects
+- **HabitFlower**: An open source social habit tracker where growth is visible. Create daily routines, invite friends into your circle, and stay accountable together.
+- **LibreRobot**: An open source cross-platform app to plan missions, monitor telemetry, and control field robots via APIs.
+
 ## Get in Touch
 Feel free to open an issue or reach out via LinkedIn for collaborations, questions, or just to chat about tech! 
 
