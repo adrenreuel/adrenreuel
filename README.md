@@ -19,5 +19,5 @@ I build stuff ranging from full-stack web and mobile apps to cool AI models and 
 ## link up
 Let's connect and build something awesome together! 
 
- /) /)
+ /) /)\
 ( • ༝•)
