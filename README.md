@@ -1,25 +1,23 @@
-# Hey! ✌️ I'm Reuel! (/'Roo:El/)
-**Computer Engineering Major @ York University - Toronto, Canada**
+# Heyya, I'm Reuel! (*/'Roo:El/*)
+**Comp. Eng. Major @ York University - Toronto, Canada**
 
 Welcome to my GitHub! 
-I'm passionate about building innovative solutions for my community, and diving into the world of software development, AI, and engineering. 
+I love inventing stuff ₍^. .^₎Ⳋ
 
-To cut to the chase - I love inventing stuff xD
+Connect with me on [LinkedIn](https://linkedin.com/in/adrenreuel)!!!!!! (pls i need more connections)
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/adrenreuel).
-
-## Projects
-I build software ranging from full-stack web and mobile apps to cool AI models and tools. Below are a few highlights:
-
-- **Seizafe**: A Chrome extension designed to prevent photosensitive epileptic seizures.
+## stuff i've made
+I build stuff ranging from full-stack web and mobile apps to cool AI models and tools. Here's some highlights:
+- **Seizafe**: Chrome extension designed to help prevent photosensitive epileptic seizures while watching YouTube videos (built during the good ol' times of Vine videos).
 - **BLEEP**: A crowdsourcing platform to report and identify counterfeit goods in Africa.
-- **IrisCrypt**: A scalable AI powered anti-counterfeit tag protecting consumers from counterfeit products.
+- **IrisCrypt**: A scalable AI-powered anti-counterfeit tag protecting consumers from counterfeit products.
 
-## My Open-Source Projects
-- **HabitFlower**: An open source social habit tracker where growth is visible. Create daily routines, invite friends into your circle, and stay accountable together.
-- **LibreRobot**: An open source cross-platform app to plan missions, monitor telemetry, and control field robots via APIs.
+## open-Source stuff
+- **HabitFlower**: Social habit tracker where growth is visible. Create daily routines, invite friends into your circle, and stay accountable together.
+- **LibreRobot**: Cross-platform app to plan missions, monitor telemetry, and control field robots via APIs. (Adapted into Kevares Autonomous Services C3)
 
-## Get in Touch
-Feel free to open an issue or reach out via LinkedIn for collaborations, questions, or just to chat about tech! 
+## link up
+Let's connect and build something awesome together! 
 
-Let's connect and build something awesome together! ✨
+ /) /)
+( • ༝•)
