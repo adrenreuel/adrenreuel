@@ -1,8 +1,8 @@
-# Heyya, I'm Reuel! (*/'Roo:El/*)
-*Comp. Eng. Major @ York University - Toronto, Canada*
+![nyan](https://miro.medium.com/1*OAXivevUVDA6ddtq-7jwVw.gif)
 
+# Heyya, I'm Reuel! (*/'Roo:El/*)
 welcome to my GitHub! 
-i love inventing stuff ₍^. .^₎Ⳋ
+i love making stuff ₍^. .^₎Ⳋ
 
 connect with me on [LinkedIn](https://linkedin.com/in/adrenreuel)!!!!!! (pls i need more connections)
 
